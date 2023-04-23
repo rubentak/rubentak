@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there programmer 🤓
+
+## My name is Ruben Tak and I am a data science student from The Netherlands 🇳🇱
+
+I will be uploading different projects that I am/have been working on 📊 
+
+Current projects:
+- 🌬️ Airflow
+- 🤖 AI implementations for perdonal use
+- 📸 Image processing
+- 🎧 Sportify in python 
+
+Most these respositories will also be discussed in Medium articles, pelase check it out! 📝
+
+https://medium.com/@rubentak 
+
+Please be sure to contact me if you have any questions or remarks! ✉️ 
 
 <!--
 **rubentak/rubentak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
