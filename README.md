@@ -67,4 +67,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+potential references
+https://github.com/platane
+https://github.com/luis-gustavoj
+
 -->
+
+
