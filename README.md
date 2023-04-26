@@ -8,6 +8,7 @@ Current projects:
 - 🌬️ Airflow
 - 🤖 AI implementations for perdonal use
 - 📸 Image processing
+- 🦜🔗 LangChain 
 - 🎧 Sportify in python 
 
 Most these respositories will also be discussed in Medium articles, pelase check it out! 📝
