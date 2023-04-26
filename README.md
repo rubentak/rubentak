@@ -74,6 +74,11 @@ https://github.com/ishkapoor2000
 https://github.com/HyunCafe?tab=overview&from=2023-04-01&to=2023-04-26 !!!
 https://github.com/DavidsDvm
 https://github.com/bloedboemmel?tab=overview&from=2023-04-01&to=2023-04-26
+
+https://github.com/rahuldkjain/github-profile-readme-generator generator
+
+https://savelev.medium.com/improving-github-profile-with-highlights-and-achievements-be5fcdd558d
+
 picture ideas (send to kat)
 -->
 
