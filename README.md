@@ -70,7 +70,9 @@ Here are some ideas to get you started:
 potential references
 https://github.com/platane
 https://github.com/luis-gustavoj
+https://github.com/ishkapoor2000
 
+picture ideas (send to kat)
 -->
 
 
