@@ -10,6 +10,7 @@ Current projects:
 - 📸 Image processing
 - 🦜🔗 LangChain 
 - 🎧 Sportify in python 
+- More to be published!
 
 Most these respositories will also be discussed in Medium articles, pelase check it out! 📝
 
