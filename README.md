@@ -1,4 +1,4 @@
-## Hi there programmer 🤓
+# Hi there programmer 🤓
 
 ## My name is Ruben Tak and I am a data science student from The Netherlands 🇳🇱
 
@@ -81,6 +81,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator generator
 https://savelev.medium.com/improving-github-profile-with-highlights-and-achievements-be5fcdd558d
 
 picture ideas (send to kat)
+
 -->
 
 
