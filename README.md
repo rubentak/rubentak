@@ -14,7 +14,7 @@ Current projects:
 
 Most these respositories will also be discussed in Medium articles, pelase check it out! 📝
 
-https://medium.com/@rubentak 
+### https://medium.com/@rubentak 
 
 Please be sure to contact me if you have any questions or remarks! ✉️ 
 
