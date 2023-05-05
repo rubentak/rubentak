@@ -9,12 +9,12 @@ Current projects:
 - 🤖 AI implementations for perdonal use
 - 📸 Image processing
 - 🦜🔗 LangChain 
-- 🎧 Sportify in python 
+- 🎧 Spotify in python 
 - More to be published!
 
 Most these respositories will also be discussed in Medium articles, pelase check it out! 📝
 
-### https://medium.com/@rubentak 
+### [Medium](https://medium.com/@rubentak) 
 
 Please be sure to contact me if you have any questions or remarks! ✉️ 
 
