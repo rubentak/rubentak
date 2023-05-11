@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 potential references
-https://github.com/platane
-https://github.com/luis-gustavoj
+https://github.com/platane --> snakes
+https://github.com/luis-gustavoj --> pixle art
 https://github.com/ishkapoor2000
 https://github.com/HyunCafe?tab=overview&from=2023-04-01&to=2023-04-26 !!!
 https://github.com/DavidsDvm
