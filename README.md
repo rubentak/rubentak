@@ -16,6 +16,8 @@ Most these respositories will also be discussed in Medium articles, pelase check
 
 ### [Medium](https://medium.com/@rubentak) 
 
+### [Buy me a coffee ☕️](https://www.buymeacoffee.com/rubentak)
+
 Please be sure to contact me if you have any questions or remarks! ✉️ 
 
 Languages and tools:
