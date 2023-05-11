@@ -34,7 +34,7 @@ Languages and tools:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
@@ -44,17 +44,7 @@ Languages and tools:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rubentak) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rubentak) 
 
 <!--
-**rubentak/rubentak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 potential references
 https://github.com/platane  snakes
 https://github.com/luis-gustavoj pixle art
@@ -67,12 +57,8 @@ https://github.com/rahuldkjain/github-profile-readme-generator generator
 
 https://savelev.medium.com/improving-github-profile-with-highlights-and-achievements-be5fcdd558d
 
-picture ideas (send to kat)
 
 -->
-# 💫 About Me:
-Hi there programmers 🤓<br>My name is Ruben Tak and I am a data science student from The Netherlands 🇳🇱<br>I will be uploading different projects that I am/have been working on 📊<br><br>Current projects:<br><br>🌬️ Airflow<br>🤖 AI implementations for perdonal use<br>📸 Image processing<br>🦜🔗 LangChain<br>🎧 Spotify in python<br>More to be published!<br>Most these respositories will also be discussed in Medium articles, pelase check it out! 📝<br><br>Medium<br>Buy me a coffee ☕️<br>Please be sure to contact me if you have any questions or remarks! ✉️
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ruben Tak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rubentak) 
