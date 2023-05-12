@@ -31,6 +31,9 @@ Languages and tools:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rubentak&icon=0&color=6)](https://visitcount.itsvg.in)
 
