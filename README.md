@@ -31,11 +31,10 @@ Languages and tools:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+### 🤓 Random Dev Meme (refresh for a new one!)
 <img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
 
 
----
 [![](https://visitcount.itsvg.in/api?id=rubentak&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
