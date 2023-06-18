@@ -1,4 +1,4 @@
-# Hi there programmers 🤓
+# Hi there programmers! 🤓
 
 ## My name is Ruben Tak and I am a data science student from The Netherlands 🇳🇱
 
