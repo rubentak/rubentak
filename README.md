@@ -9,7 +9,8 @@ Current projects:
 - 🤖 AI implementations for perdonal use
 - 📸 Image processing
 - 🦜🔗 LangChain 
-- 🎧 Spotify in python 
+- 🎧 Spotify in Python
+- ⚔️ Game of Thornes character Network Analysis 
 - More to be published!
 
 Most these respositories will also be discussed in Medium articles, pelase check it out! 📝
