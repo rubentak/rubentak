@@ -1,12 +1,12 @@
 # Hi there programmers! 🤓
 
-## My name is Ruben and I am a data science student from The Netherlands 🇳🇱
+## My name is Ruben and I am a data science enthusiast from The Netherlands 🇳🇱
 
 I will be uploading different projects that I am/have been working on 📊 
 
 Current projects:
 - 🌬️ Airflow
-- 🤖 AI implementations for perdonal use
+- 🤖 AI implementations for personal use
 - 📸 Image processing
 - 🦜🔗 LangChain 
 - 🎧 Spotify in Python
